@@ -1,6 +1,6 @@
-#============================
-#Cellular Automata in a 2-dimensional space
-#============================
+# ============================
+# Cellular Automata in a 2-dimensional space
+# ============================
 - Wolfram code for cellular automata rules
 - generate vectors according to a rule
 - visualize a binary vector as black/white pattern
